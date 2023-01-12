@@ -14,3 +14,6 @@ This might be my favourite project i have ever done in my school, ITTS "O.Belluz
 -How to give him the basic inputs (example: for moving it straight or make it turn right) 
  
 -All the photo and poster we made (unfortunatly only in italian)
+
+Usefull link:
+C3 mini features and dimensions : https://www.wemos.cc/en/latest/c3/c3_mini.html
